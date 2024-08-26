@@ -1,0 +1,10 @@
+{
+  "appId": "com.bhargav.ionic",
+  "appName": "CapacitorDemo",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
